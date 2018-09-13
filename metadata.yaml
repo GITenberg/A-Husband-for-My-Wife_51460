@@ -1,0 +1,31 @@
+_repo: A-Husband-for-My-Wife_51460
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Burns
+    gutenberg_agent_id: '48890'
+    url: http://www.gutenberg.org/2009/agents/48890
+creator:
+  author:
+    agent_name: Stuart, William W.
+    gutenberg_agent_id: '33446'
+    url: http://www.gutenberg.org/2009/agents/33446
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51460'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: A Husband for My Wife
+url: http://www.gutenberg.org/ebooks/51460
