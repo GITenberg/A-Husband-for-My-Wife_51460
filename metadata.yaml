@@ -1,16 +1,21 @@
 _repo: A-Husband-for-My-Wife_51460
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Burns
     gutenberg_agent_id: '48890'
     url: http://www.gutenberg.org/2009/agents/48890
+covers:
+- cover_type: archival
+  image_path: 51460-h/images/cover.jpg
 creator:
   author:
     agent_name: Stuart, William W.
     gutenberg_agent_id: '33446'
     url: http://www.gutenberg.org/2009/agents/33446
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51460#A-Husband-for-My-Wife
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-03-15'
 gutenberg_type: Text
